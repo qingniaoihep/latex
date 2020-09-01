@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.12.18)  1 SEP 2020 17:52
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.12.18)  1 SEP 2020 17:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -444,8 +444,7 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 (c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip68
 \subfig@bottom=\skip69
-)
-No file test.aux.
+) (./test.aux)
 \openout1 = `test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
@@ -464,7 +463,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
 LaTeX Font Info:    ... okay on input line 11.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 11.
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
@@ -529,22 +528,22 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 12.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 12.
-
-No file test.toc.
+ (./test.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.53937> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 2.
+)
 \tf@toc=\write3
 \openout3 = `test.toc'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.53937> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 23.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 23.
+ [1
+
+]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7.52812> on input line 23.
-
-LaTeX Warning: Reference `itref' on page 1 undefined on input line 31.
-
 
 Package fontspec Info: Could not resolve font "FangSong/BI" (it probably
 (fontspec)             doesn't exist).
@@ -568,89 +567,27 @@ Package fontspec Info: Font family 'FangSong(0)' created for font 'FangSong'
 (fontspec)             <->"FangSong/OT:script=hani;language=DFLT;"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-[1
-
-]
 LaTeX Font Info:    Font shape `TU/SimSun(0)/m/sl' in size <10.53937> not available
-(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 85.
+(Font)              Font shape `TU/SimSun(0)/m/it' tried instead on input line 67.
  [2]
-
-e:/Code/latex/latex/test.tex:116: LaTeX Error: File `1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.116 ...I\includegraphics[width=0.7\textwidth]{1}
-                                                   %插入图片，[]中设置图片大小，{}中是图片文件名
-I could not locate the file with any of these extensions:
-.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-e:/Code/latex/latex/test.tex:124: LaTeX Error: File `1' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.124 ...includegraphics[width=0.45\textwidth]{1}}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (6.70586pt too wide) in paragraph at lines 124--124
-[]\TU/lmr/m/n/7.52812 (a)
- []
-
-
-Overfull \hbox (4.01851pt too wide) in paragraph at lines 124--124
-\TU/SimSun(0)/m/n/7.52812 图
- []
-
-
-e:/Code/latex/latex/test.tex:127: LaTeX Error: File `2' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 ...includegraphics[width=0.45\textwidth]{2}}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.PDF,.ai,.AI,.png,.PNG,.jpg,.JPG,.jpeg,.JPEG,.jp2,.JP2,.jpf,.JPF,.bmp,.BMP,.ps,.PS,.eps,.EPS,.mps,.MPS,.pz,.eps.Z,.ps.Z,.ps.gz,.eps.gz
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Overfull \hbox (7.15001pt too wide) in paragraph at lines 127--127
-[]\TU/lmr/m/n/7.52812 (b)
- []
-
-
-Overfull \hbox (4.01851pt too wide) in paragraph at lines 127--127
-\TU/SimSun(0)/m/n/7.52812 图
- []
-
-[3] (./test.aux)
-
-LaTeX Warning: There were undefined references.
-
+File: 1.png Graphic file (type bmp)
+<1.png>
+File: 1.png Graphic file (type bmp)
+<1.png>
+File: 2.png Graphic file (type bmp)
+<2.png>
+ [3] [4] (./test.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 17333 strings out of 492473
- 405675 string characters out of 6132687
+ 17282 strings out of 492473
+ 405476 string characters out of 6132687
  485482 words of memory out of 5000000
- 21669 multiletter control sequences out of 15000+600000
+ 21633 multiletter control sequences out of 15000+600000
  537468 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 58i,8n,70p,378b,920s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,8n,70p,378b,475s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on test.pdf (3 pages).
+Output written on test.pdf (4 pages).
